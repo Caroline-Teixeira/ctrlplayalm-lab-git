@@ -42,20 +42,19 @@ Novo por aqui? Não se preocupe! Siga o nosso **[Guia de Contribuição](CONTRIB
 
 ---
 
-## 👥 Alunos que já contribuíram
+## 👥 Pessoas que já contribuíram
 
 <table>
   <tr>
     <td align="center">
       <a href="community/Caroline-Teixeira.md">
-        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px" alt="Caroline-Teixeira"/><br/>
-        <sub><b>Seu Nome Aqui!</b></sub>
+        <img src="https://avatars.githubusercontent.com/Caroline-Teixeira" width="100px" alt="Caroline-Teixeira"/><br/><sub><b>Caroline-Teixeira</b></sub>
       </a>
     </td>
   </tr>
 </table>
 
-> 💡 **Dica:** Depois que o seu Pull Request for aceito, o seu perfil aparece aqui!
+> 💡 **Info:** Depois que o seu Pull Request for aceito, o seu perfil aparece aqui!
 
 ---
 
