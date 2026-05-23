@@ -52,6 +52,13 @@ Siga o nosso **[Guia de Contribuição](tutorial/CONTRIBUTING.md)** — ele foi 
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="community/ctrl+play+alm.md">
+        <img src="https://avatars.githubusercontent.com/Ctrl-Play-Almirante" width="100px" alt="Ctrl-Play-Alm"/><br/><sub><b>Ctrl-Play-Almirante</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 > 💡 **Info:** Depois que o seu Pull Request for aceito, o seu perfil aparece aqui!
