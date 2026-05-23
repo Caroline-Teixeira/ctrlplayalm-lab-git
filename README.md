@@ -28,7 +28,7 @@ Adicione um arquivo Markdown com o seu perfil na pasta `community/`. O arquivo d
 
 **Exemplo:** `community/seu-usuario.md`
 
-Veja o [perfil de exemplo](EXEMPLO.md) ou [perfil da prof](community/Caroline-Teixeira.md) para se inspirar!
+Veja o [perfil de exemplo](tutorial/EXAMPLE.md) ou [perfil da prof](community/Caroline-Teixeira.md) para se inspirar!
 
 ### 2. 🌟 Adicione um projeto pessoal
 
@@ -38,7 +38,7 @@ No seu arquivo de perfil, você também pode listar projetos que você está des
 
 ## 📋 Passo a Passo
 
-Novo por aqui? Não se preocupe! Siga o nosso **[Guia de Contribuição](CONTRIBUTING.md)** — ele foi feito especialmente para quem está começando agora. 🐣
+Siga o nosso **[Guia de Contribuição](tutorial/CONTRIBUTING.md)** — ele foi feito especialmente para quem está começando agora. 🐣
 
 ---
 
@@ -73,5 +73,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ---
 
 <div align="center">
-  Feito com 💙 por <strong>Caroline Teixeira</strong>
+  Feito com 💙 por <strong>[Caroline Teixeira](https://github.com/Caroline-Teixeira)</strong>
 </div>

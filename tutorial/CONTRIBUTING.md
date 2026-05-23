@@ -14,6 +14,8 @@ Antes de começar, você precisa ter instalado na sua máquina:
 - Uma conta no [GitHub](https://github.com)
 - Um editor de código (recomendamo o [VS Code](https://code.visualstudio.com/))
 
+Caso tenha dúvida leia o passo-a-passo aqui: [Configuração do Git](GIT_CONFIG.md)
+
 ---
 
 ## 🔢 Passo a Passo
@@ -34,18 +36,28 @@ Antes de começar, você precisa ter instalado na sua máquina:
 
 No seu fork (na **sua** conta do GitHub), clique no botão verde **Code** e copie a URL.
 
-Depois, abra o terminal e digite:
+#### Opção A — HTTPS (em computadores compartilhados)
 
 ```bash
-git clone https://github.com/SEU-USUARIO/ctrlplay-lab-opensource.git
+git clone https://github.com/SEU-USUARIO/ctrlplayalm-lab-git.git
 ```
 
-> ⚠️ Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub!
+> ℹ️ O clone não pede senha. A senha (token) só será solicitada no momento do **push**, lá no Passo 6.
+
+#### Opção B — SSH (recomendado para usar em casa)
+
+```bash
+git clone git@github.com:SEU-USUARIO/ctrlplayalm-lab-git.git
+```
+
+> 💡 **Usando em casa?** Se você já configurou uma chave SSH no seu computador, prefira a Opção B — ela não pede token nem senha na hora do push!
+>
+> ⚠️ Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub nas duas opções!
 
 Entre na pasta do projeto:
 
 ```bash
-cd ctrlplay-lab-opensource
+cd ctrlplayalm-lab-git
 ```
 
 ---
@@ -100,11 +112,23 @@ git commit -m "feat: add seu-usuario profile"
 
 ---
 
-### Passo 6 — Envie para o GitHub (Push)
+#### Passo 6 — Envie para o GitHub (Push)
 
 ```bash
 git push origin feat/community/seu-usuario
 ```
+
+Se você usou **HTTPS** no clone, o terminal vai pedir:
+
+```
+Username: SEU-USUARIO
+Password: SEU-TOKEN
+```
+
+> ⚠️ O GitHub não aceita mais senha comum. No campo **Password**, cole um **Personal Access Token**, gerado em:
+> **GitHub → Settings → Developer Settings → Personal Access Tokens → Tokens (classic)**
+
+Se você usou **SSH** no clone, o push não pedirá nenhuma senha.
 
 ---
 
@@ -136,5 +160,5 @@ Se travar em algum passo, chama a professora ou abre uma [Issue](../../issues) d
 ---
 
 <div align="center">
-  Feito com 💙 por <strong>Caroline Teixeira</strong>
+  Feito com 💙 por <strong>[Caroline Teixeira](https://github.com/Caroline-Teixeira)</strong>
 </div>
