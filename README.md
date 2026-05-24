@@ -47,15 +47,13 @@ Siga o nosso **[Guia de Contribuição](tutorial/CONTRIBUTING.md)** — ele foi 
 <table>
   <tr>
     <td align="center">
-      <a href="community/Caroline-Teixeira.md">
-        <img src="https://avatars.githubusercontent.com/Caroline-Teixeira" width="100px" alt="Caroline-Teixeira"/><br/><sub><b>Caroline-Teixeira</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="community/ctrl+play+alm.md">
         <img src="https://avatars.githubusercontent.com/Ctrl-Play-Almirante" width="100px" alt="Ctrl-Play-Alm"/><br/><sub><b>Ctrl-Play-Almirante</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="community/Caroline-Teixeira.md">
+        <img src="https://avatars.githubusercontent.com/Caroline-Teixeira" width="100px" alt="Caroline-Teixeira"/><br/><sub><b>Caroline-Teixeira</b></sub>
       </a>
     </td>
   </tr>
