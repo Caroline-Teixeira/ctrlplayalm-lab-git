@@ -12,9 +12,9 @@ Antes de começar, você precisa ter instalado na sua máquina:
 
 - [Git](https://git-scm.com/downloads)
 - Uma conta no [GitHub](https://github.com)
-- Um editor de código (recomendamo o [VS Code](https://code.visualstudio.com/))
+- Um editor de código (recomendo o [VS Code](https://code.visualstudio.com/))
 
-Caso tenha dúvida leia o passo-a-passo aqui: [Configuração do Git](GIT_CONFIG.md)
+Caso tenha dúvida em configuar GIT e Token, leia o passo-a-passo aqui: [Configuração do Git](GIT_CONFIG.md)
 
 ---
 
