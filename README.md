@@ -56,6 +56,11 @@ Siga o nosso **[Guia de Contribuição](tutorial/CONTRIBUTING.md)** — ele foi 
         <img src="https://avatars.githubusercontent.com/Caroline-Teixeira" width="100px" alt="Caroline-Teixeira"/><br/><sub><b>Caroline-Teixeira</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="community/cauan-fernando.md">
+        <img src="https://avatars.githubusercontent.com/cauan-fernando" width="100px" alt="cauan-fernando"/><br/><sub><b>cauan-fernando/b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
