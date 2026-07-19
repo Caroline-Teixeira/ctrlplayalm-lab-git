@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou o usuario! 👋
 
 ## Sobre mim
 - 🎮 Aluno(a) da Ctrl+Play Young
