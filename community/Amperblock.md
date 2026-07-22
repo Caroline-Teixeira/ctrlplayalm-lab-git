@@ -1,4 +1,4 @@
-# Olá, eu sou o usuario! 👋
+# Olá, eu sou o Luiz! 👋
 
 ## Sobre mim
 - 🎮 Aluno(a) da Ctrl+Play Young
